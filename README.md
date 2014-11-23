@@ -3,13 +3,21 @@ Examen Emprenadoria
 :one: What are the different steps in the Entrepreurship process?
 
 Les etapes del Enterpreurship son:
+
 1.	Self Discovery.
+
 2.	Identifying opportunietes.
+
 3.	Generating and evaluating ideas.
+
 4.	Planning.
+
 5.	Raising start-up capital.
+
 6.	Start-up.
+
 7.	Growth.
+
 8.	Harvest.
 
 

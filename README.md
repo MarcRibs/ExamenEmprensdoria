@@ -70,4 +70,55 @@ La innovació, per mi, es la introducció de novetats dins del mercat, millorant
 
 Els blocs que formen el Model Canvas son:  el Key Partners, Key Activities, Key Resources, Value Propositions, Customers Relationships,Channels, Customers Segments, Cost Structure i Revenue streams.
 
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+...........................................................................................................................
+
+
+Business
+========
+
+
+:one: What does the start-up do?
+
+Es un terme empresarial utilitzat actualment en el mon empresarial que tradueix arrencar o simplement emprendre un nou negoci.
+
+:two: What is unique about the start-up? or in other words What gives your company a competitive advantage?
+
+Jo crec que l’avantatge competitiu respecte a les altres empreses es en la innovació de altres productes que encara no s’hi ha treballat.
+
+:three: What big problem does it solve?
+
+El gran problema que soluciona la nostre empresa, per a les persones minusvàlides i que hi van amb cadires de rodes, es la solució que suposa tornar a caminar amb les seves pròpies cames.
+
+:four: How big can the start-up get?
+
+El start-up aconseguiria la captació de l’atenció del client per obtenir el  producte.
+
+:five: What is the actual addressable market?
+
+El mercat en el qual s’adreça seria el de pròtesis i venta de ortopèdies.
+
+:six: Why would someone be "compelled" to purchase your product or service?
+
+Perquè seria una necessitat, una reducció de costos i sobre tot facilitaria la vida.
+
+:seven: Can you describe your MVP?
+
+El nostre MVP seria la prova de un prototip  que solament es pogués usar durant un temps. 
+
+:eight: How do you plan to acquire customers?
+
+L’adquisició de clients la faríem mitjançant proves amb el nostre producte, sobretot perquè poguessin veure com podrien tornar a caminar.
+
+:nine: Who is the end user? (Customer Profile)
+
+
+L’usuari o client final seria aquella persona que pateix una immobilització en qualsevol part del seu cos, les cames, els braços...
+
+
+:keycap_ten: Can you explain the Customer Research done with your start-up?
+
+El Costumer Research es faria a traves dels hospitals, tendes i altres locals o centres on estigues relacionat el nostre producte.
+
 

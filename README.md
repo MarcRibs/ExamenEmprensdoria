@@ -1,4 +1,4 @@
-ExamenEmprenadoria
+Examen Emprenadoria
 ==================
 :one: What are the different steps in the Entrepreurship process?
 
